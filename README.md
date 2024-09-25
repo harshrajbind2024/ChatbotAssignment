@@ -1,3 +1,9 @@
+![Screenshot (28542)](https://github.com/user-attachments/assets/1e2e5b22-db85-4d8e-8812-4eecf55fb532)
+
+
+
+live: https://kaleidoscopic-kashata-1e0950.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
